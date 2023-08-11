@@ -1,7 +1,10 @@
 body {
     width: auto;
+    background-image: url("bg.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+  color: white;
 }
-
 ol.str:before {
     content: "\25BA";
 }
